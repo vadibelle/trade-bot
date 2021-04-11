@@ -1,0 +1,23 @@
+{
+  "name": "trade-bot",
+  "version": "1.0.0",
+  "description": "trade bot",
+  "main": "plot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadibelle/trade-bot.git"
+  },
+  "keywords": [
+    "trade",
+    "bot"
+  ],
+  "author": "vadibelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadibelle/trade-bot/issues"
+  },
+  "homepage": "https://github.com/vadibelle/trade-bot#readme"
+}
