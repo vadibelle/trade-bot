@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/vadibelle/trade-bot/issues"
   },
-  "homepage": "https://github.com/vadibelle/trade-bot#readme"
+  "homepage": "https://github.com/vadibelle/trade-bot#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "nodeplotlib": "^0.7.3"
+  }
 }
